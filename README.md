@@ -3,7 +3,7 @@ Dataset depicting aspects of the Brazilian Amazon's environmental degradation, s
 
 metadata-3.xml file contains metadata on the dataset.
 
-All files are in CSV format
+All files are in CSV format and can be downloaded and opened by spreadsheet software, such as Excel.
 
 The file, inpe_brazilian_amazon_fires, lists fire outbreaks by state, month, and year, from 1999-2019. These data originate from the Banco de Dados de Queimadas (Fires Database), which detects fire outbreaks through satellite images. Specific longitude and latitude within each Brazilian state and the associated firespots in that specific area by year are available.
 
