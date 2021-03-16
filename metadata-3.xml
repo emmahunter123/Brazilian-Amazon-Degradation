@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">DOI</identifier>
+<titles>
+	<title>Brazilian Amazon Rainforest Degradation 1999-2019</title>
+</titles>
+<creators>
+	<creator>
+		<creatorName>Netto, Mariana</creatorName>
+	</creator>
+</creators>
+<publisher>Kaggle</publisher>
+<publicationYear>2019</publicationYear>
+<resourceType>Dataset</resourceType>
+<subjects>
+	<subject schemeURI="http://id.loc.gov/authorities/subjects" valueURI="https://id.loc.gov/authorities/subjects/sh92006466.html">Environmental Degradation</subject>
+	<subject schemeURI="http://id.loc.gov/authorities/subjects" valueURI="https://id.loc.gov/authorities/subjects/sh2009123092.html">Deforestation--Brazil</subject>
+	<subject schemeURI="http://id.loc.gov/authorities/subjects" valueURI="https://id.loc.gov/authorities/subjects/sh85048572.html">Fires</subject>
+	<subject schemeURI="http://id.loc.gov/authorities/subjects" valueURI="https://id.loc.gov/authorities/subjects/sh85145843.html">Weather</subject>
+</subjects>
+<contributors>
+	<contributor contributorType="ResearchGroup">
+		<contributorName>Instituto Nacional de Pesquisas Espaciais (INPE)</contributorName>
+	</contributor>
+	<contributor contributorType="ResearchGroup">
+		<contributorName>Programa de Monitoramento da Floresta Amazônica Brasileira por Satélite (PRODES)</contributorName>
+	</contributor>
+	<contributor contributorType="ResearchGroup">
+		<contributorName>Banco de Dados de Queimadas (BDQ)</contributorName>
+	</contributor>
+	<contributor contributorType="ResearchGroup">
+		<contributorName>Golden Gate Weather Services</contributorName>
+	</contributor>
+</contributors>
+<dates>
+	<date>1990/2019</date>
+</dates>
+<descriptions>
+	<description>Data regarding the environmental degradation in the Brazilian Amazon. Degradation factors include deforestation and fires. The files include data on deforestation and fires, as well as the climate phenomena of el Ninos and la Ninas in the area</description>
+</descriptions>
+<geoLocations>
+	<geoLocation>
+		<geoLocationPlace>Brazilian Amazon</geoLocationPlace>
+	</geoLocation>
+</geoLocations>
+<language>en</language>
+<sizes>
+	<size>151.98 kb</size>
+</sizes>
+<formats>
+	<format>CSV</format>
+</formats>
+<version>3</version>
+<rightsList>
+	<rights rightsURI="https://creativecommons.org/publicdomain/zero/1.0">Creative Commons: Public Domain</rights>
+</rightsList>
+</resource>
