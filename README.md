@@ -1,7 +1,7 @@
 # Brazilian-Amazon-Degradation
 Dataset depicting aspects of the Brazilian Amazon's environmental degradation, such as fires, deforestation, and climate phenomena.
 
-metadata-3.xml file contains metadata on the dataset.
+metadata-3.xml file contains metadata on the dataset. There is no DOI listed, as one does not yet exist for this dataset. 
 
 The LICENSE file contains the Creative Common License for the repository.
 
