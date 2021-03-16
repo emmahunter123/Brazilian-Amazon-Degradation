@@ -19,16 +19,16 @@
 	<subject schemeURI="http://id.loc.gov/authorities/subjects" valueURI="https://id.loc.gov/authorities/subjects/sh85145843.html">Weather</subject>
 </subjects>
 <contributors>
-	<contributor contributorType="ResearchGroup">
+	<contributor contributorType="Organizational">
 		<contributorName>Instituto Nacional de Pesquisas Espaciais (INPE)</contributorName>
 	</contributor>
-	<contributor contributorType="ResearchGroup">
+	<contributor contributorType="Organizational">
 		<contributorName>Programa de Monitoramento da Floresta Amazônica Brasileira por Satélite (PRODES)</contributorName>
 	</contributor>
-	<contributor contributorType="ResearchGroup">
+	<contributor contributorType="Organizational">
 		<contributorName>Banco de Dados de Queimadas (BDQ)</contributorName>
 	</contributor>
-	<contributor contributorType="ResearchGroup">
+	<contributor contributorType="Organizational">
 		<contributorName>Golden Gate Weather Services</contributorName>
 	</contributor>
 </contributors>
